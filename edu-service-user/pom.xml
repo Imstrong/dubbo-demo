@@ -43,7 +43,7 @@
                 <directory>src/main/resources/spring</directory>
                 <filtering>true</filtering>
                 <includes>
-                    <include>classpath:spring-context.xml</include>
+                    <include>spring-context.xml</include>
                 </includes>
             </resource>
         </resources>
